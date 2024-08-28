@@ -191,6 +191,4 @@ def main():
         elif opcion == "salir":
             print("Gracias por usar nuestra agencia de viajes. ¡Hasta luego!")
             break
-
-if __name__ == "__main__":
-    main()
+main()
