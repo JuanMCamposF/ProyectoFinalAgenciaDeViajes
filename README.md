@@ -1,5 +1,5 @@
 # ProyectoFinalAgenciaDeViajes
-Implementación de código en python con funcionalidades para la simulación de una agencia de viajes tales como registro de clientes, vuelos nacionales, precios, hoteles y paquetes de turismo
+Implementación de código en python con funcionalidades para la simulación de una agencia de viajes tales como registro de clientes, vuelos nacionales, precios, hoteles y paquetes de turismo, cuenta con menu de atencion.
 Como usar el programa:
 1. ejecutarlo.
 2. se abrira un menu de opciones el cual nos permitira seleccionar mediante el uso de numeros segun el orden de cada opcion.
